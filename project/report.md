@@ -51,7 +51,7 @@ I would then devote more attention at the hyperparameters.
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](img/model_test_score.png)
+![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
@@ -60,6 +60,6 @@ I would then devote more attention at the hyperparameters.
 
 ## Summary
 In Summary, I think this exercise shows how important it is to perform explorative data analysis on any given data set.
-This extends into future engineering which then provides the machine learning good set of data which provides good results.Additionaly hyperparameter is also a critical step 
+This extends into future engineering which then provides the machine learning good set of data which provides good results.Additionaly hyperparameter tuning is also a critical step 
 that may be taken when you have done everything and you have obtained the results you want as the default parameters may not be able
 to push the model to perform better.
